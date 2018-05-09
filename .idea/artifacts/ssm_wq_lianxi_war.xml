@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm_wq_lianxi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ssm_wq_lianxi.war">
+      <element id="artifact" artifact-name="ssm_wq_lianxi:war exploded" />
+    </root>
+  </artifact>
+</component>
